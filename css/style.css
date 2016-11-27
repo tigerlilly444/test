@@ -7,10 +7,10 @@ section p {
 	text-align: center;
 	color: #545454;
 }
-section h1 {
+/**section h1 {
 	font: 32px 'Open Sans';
 	font-weight: bold;
-}
+}***/
 section p {
 	font: 16px 'Open Sans';
 }
